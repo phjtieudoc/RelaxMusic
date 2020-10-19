@@ -21,10 +21,10 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
-		artist: "BGM Maker",
-		name: "【泣けるサントラ】美しく悲しいピアノ音楽【作業用・睡眠用BGM】癒しの音楽",
-		url: "https://docs.google.com/uc?export=download&id=1wk8sphW0f8uMMZYhaW1oct7xD9-GoAhs",
-		picture: "https://i.ytimg.com/vi/zpJzzQ_DGjQ/maxresdefault.jpg"
+		artist: "羽肿",
+		name: "Windy Hill",
+		url: "https://docs.google.com/uc?export=download&id=1WpE5nzgEHFAhMGsKpTR0Z9KCuXJKXOFP",
+		picture: "https://i1.sndcdn.com/artworks-000384500082-pnvos5-t500x500.jpg"
 	}, {
     artist: "BGM Maker",
     name: "神舞曲【オーケストラshort ver.】美しく切ない、ノスタルジックな音楽",

@@ -36,10 +36,10 @@ $(function()
     url: "https://docs.google.com/uc?export=download&id=1LpOOc9HxXAZ6mNX4guebPM-aZtzuDhAs",
     picture: "https://f4.bcbits.com/img/a3663078782_16.jpg"
 }, {
-    artist: "BGM Maker",
-    name: "【泣けるサントラ】切ないけど、どこか暖かい、心にしみるピアノ曲【作業用・睡眠用BGM】癒しの音楽",
-    url: "https://docs.google.com/uc?export=download&id=1Bmf__XeftXWu-zDzwr3pF0oKMt3sVP5D",
-    picture: "https://i.ytimg.com/vi/0GuC7TxvI1M/maxresdefault.jpg"
+    artist: "BigRicePiano",
+    name: "The Sound Of Rain",
+    url: "https://docs.google.com/uc?export=download&id=1Q5M77lhpevyk4uFfBCxmtecpv5GuZYuE",
+    picture: "https://f4.bcbits.com/img/a0883299245_16.jpg"
 }, {
     artist: "BGM Maker",
     name: "あの夏を思い出す、ちょっと切ない音楽【ピアノBGM】作ってみた #1",

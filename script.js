@@ -31,10 +31,10 @@ $(function()
     url: "https://docs.google.com/uc?export=download&id=1M2QxUToOBUKfdyV2wtqJfQdz1GL7DKXm",
     picture: "https://f4.bcbits.com/img/a2288896432_16.jpg"
 }, {
-    artist: "BGM Maker",
-    name: "【冬に聴きたい、癒しのBGM】冷えた心がほっこり暖まりそうな音楽",
-    url: "https://docs.google.com/uc?export=download&id=1OnsbqaQVhp6NFK2wajqzd9XxlOd_KGjo",
-    picture: "https://i.ytimg.com/vi/kSbbyfESC4Y/maxresdefault.jpg"
+    artist: "BigRicePiano",
+    name: "The Heart's Tale",
+    url: "https://docs.google.com/uc?export=download&id=1LpOOc9HxXAZ6mNX4guebPM-aZtzuDhAs",
+    picture: "https://f4.bcbits.com/img/a3663078782_16.jpg"
 }, {
     artist: "BGM Maker",
     name: "【泣けるサントラ】切ないけど、どこか暖かい、心にしみるピアノ曲【作業用・睡眠用BGM】癒しの音楽",

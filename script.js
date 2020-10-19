@@ -26,10 +26,10 @@ $(function()
 		url: "https://docs.google.com/uc?export=download&id=1WpE5nzgEHFAhMGsKpTR0Z9KCuXJKXOFP",
 		picture: "https://i1.sndcdn.com/artworks-000384500082-pnvos5-t500x500.jpg"
 	}, {
-    artist: "BGM Maker",
-    name: "神舞曲【オーケストラshort ver.】美しく切ない、ノスタルジックな音楽",
-    url: "https://docs.google.com/uc?export=download&id=1b5S-6czcqwFTfMb4xCeMdyLFQ9Tb44FP",
-    picture: "https://i.ytimg.com/vi/OhWYFjAur8I/maxresdefault.jpg"
+    artist: "BigRicePiano",
+    name: "A Wish To The Sky",
+    url: "https://docs.google.com/uc?export=download&id=1M2QxUToOBUKfdyV2wtqJfQdz1GL7DKXm",
+    picture: "https://f4.bcbits.com/img/a2288896432_16.jpg"
 }, {
     artist: "BGM Maker",
     name: "【冬に聴きたい、癒しのBGM】冷えた心がほっこり暖まりそうな音楽",

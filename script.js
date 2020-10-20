@@ -37,6 +37,11 @@ $(function()
     picture: "https://f4.bcbits.com/img/a3663078782_16.jpg"
 }, {
     artist: "BigRicePiano",
+    name: "A Bitter Rain",
+    url: "https://docs.google.com/uc?export=download&id=1d-K4Cxjrv-kp9VV0071YYWhkmQm70rwj",
+    picture: "https://f4.bcbits.com/img/a3238949994_16.jpg"
+}, {
+    artist: "BigRicePiano",
     name: "The Sound Of Rain",
     url: "https://docs.google.com/uc?export=download&id=1Q5M77lhpevyk4uFfBCxmtecpv5GuZYuE",
     picture: "https://f4.bcbits.com/img/a0883299245_16.jpg"

@@ -42,6 +42,11 @@ $(function()
     picture: "https://f4.bcbits.com/img/a3238949994_16.jpg"
 }, {
     artist: "BigRicePiano",
+    name: "The Scent Of Rain",
+    url: "https://docs.google.com/uc?export=download&id=1RJsmZyFcoQZXc587ZkMLXmc43tidTFkP",
+    picture: "https://f4.bcbits.com/img/a3238949994_16.jpg"
+}, {
+    artist: "BigRicePiano",
     name: "The Sound Of Rain",
     url: "https://docs.google.com/uc?export=download&id=1Q5M77lhpevyk4uFfBCxmtecpv5GuZYuE",
     picture: "https://f4.bcbits.com/img/a0883299245_16.jpg"

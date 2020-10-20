@@ -41,10 +41,10 @@ $(function()
     url: "https://docs.google.com/uc?export=download&id=1Q5M77lhpevyk4uFfBCxmtecpv5GuZYuE",
     picture: "https://f4.bcbits.com/img/a0883299245_16.jpg"
 }, {
-    artist: "BGM Maker",
-    name: "あの夏を思い出す、ちょっと切ない音楽【ピアノBGM】作ってみた #1",
-    url: "https://docs.google.com/uc?export=download&id=1eBVzc3BRi9DuvCKYeGMWfhCOK1rJKn3P",
-    picture: "https://i.ytimg.com/vi/PJFvJj1-wSY/maxresdefault.jpg"
+    artist: "羽肿",
+    name: "Rain after Summer",
+    url: "https://docs.google.com/uc?export=download&id=1b_qgquBzPpbUtqm4jVw-xVGrGAQ4LsgF",
+    picture: "https://images.shazam.com/coverart/t446911425-b1440714642_s400.jpg"
 }];
 	
 	function shuffle(a) {

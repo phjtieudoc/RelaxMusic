@@ -42,6 +42,11 @@ $(function()
     picture: "https://i.ytimg.com/vi/qDuIO8xEQhU/maxresdefault.jpg"
 }, {
     artist: "BigRicePiano",
+    name: "Summer Farewell",
+    url: "https://docs.google.com/uc?export=download&id=1DhuD0uYrpSFWGekKPWr1TqaAf-x1UtIQ",
+    picture: "https://f4.bcbits.com/img/a3779116000_16.jpg"
+}, {
+    artist: "BigRicePiano",
     name: "A Bitter Rain",
     url: "https://docs.google.com/uc?export=download&id=1d-K4Cxjrv-kp9VV0071YYWhkmQm70rwj",
     picture: "https://f4.bcbits.com/img/a3238949994_16.jpg"

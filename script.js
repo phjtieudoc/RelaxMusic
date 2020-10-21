@@ -41,6 +41,11 @@ $(function()
     url: "https://docs.google.com/uc?export=download&id=1d-K4Cxjrv-kp9VV0071YYWhkmQm70rwj",
     picture: "https://f4.bcbits.com/img/a3238949994_16.jpg"
 }, {
+    artist: "千と千尋の神隠し",
+    name: "いのちの名前",
+    url: "https://docs.google.com/uc?export=download&id=11yzLRP0J_HJ4_zz3eCbWgI8tacVDicfK",
+    picture: "https://i1.sndcdn.com/artworks-000137659998-nyewfg-t500x500.jpg"
+}, {
     artist: "四月は君の嘘",
     name: "君がいる",
     url: "https://docs.google.com/uc?export=download&id=1S9Kks-n-RhBxnihWQqwkoLlxZ0RHzDI_",

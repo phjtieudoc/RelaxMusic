@@ -46,6 +46,11 @@ $(function()
     url: "https://docs.google.com/uc?export=download&id=1wVjL4PZuEItw5uLXG053kJGtKNm2v1Sh",
     picture: "https://i.ytimg.com/vi/ljZZFHsj13o/maxresdefault.jpg"
 }, {
+    artist: "BigRicePiano",
+    name: "KONBINI",
+    url: "https://docs.google.com/uc?export=download&id=1o0KNkKsgMxNW9PDXfc6E5GUsmYAlvQnI",
+    picture: "https://lite-images-i.scdn.co/image/ab67616d00001e02b6a765a82d36f989b877ce04"
+}, {
     artist: "千と千尋の神隠し",
     name: "いのちの名前",
     url: "https://docs.google.com/uc?export=download&id=11yzLRP0J_HJ4_zz3eCbWgI8tacVDicfK",

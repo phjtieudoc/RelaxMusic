@@ -41,6 +41,11 @@ $(function()
     url: "https://docs.google.com/uc?export=download&id=1d-K4Cxjrv-kp9VV0071YYWhkmQm70rwj",
     picture: "https://f4.bcbits.com/img/a3238949994_16.jpg"
 }, {
+    artist: "四月は君の嘘",
+    name: "君がいる",
+    url: "https://docs.google.com/uc?export=download&id=1S9Kks-n-RhBxnihWQqwkoLlxZ0RHzDI_",
+    picture: "https://i1.sndcdn.com/artworks-000104646243-4rtyl6-t500x500.jpg"
+}, {
     artist: "BigRicePiano",
     name: "The Scent Of Rain",
     url: "https://docs.google.com/uc?export=download&id=1RJsmZyFcoQZXc587ZkMLXmc43tidTFkP",

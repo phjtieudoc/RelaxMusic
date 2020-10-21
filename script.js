@@ -51,6 +51,11 @@ $(function()
     url: "https://docs.google.com/uc?export=download&id=1RJsmZyFcoQZXc587ZkMLXmc43tidTFkP",
     picture: "https://f4.bcbits.com/img/a3238949994_16.jpg"
 }, {
+    artist: "Kiki's Delivery Service",
+    name: "Umi no Mieru Machi",
+    url: "https://docs.google.com/uc?export=download&id=1E0SffhWp2rhQBoqoKxPkZxfTj-uwl2K-",
+    picture: "https://i1.sndcdn.com/artworks-000444282513-g4b7sx-t500x500.jpg"
+}, {
     artist: "BigRicePiano",
     name: "The Sound Of Rain",
     url: "https://docs.google.com/uc?export=download&id=1Q5M77lhpevyk4uFfBCxmtecpv5GuZYuE",

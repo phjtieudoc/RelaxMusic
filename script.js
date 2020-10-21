@@ -37,6 +37,11 @@ $(function()
     picture: "https://f4.bcbits.com/img/a3663078782_16.jpg"
 }, {
     artist: "BigRicePiano",
+    name: "Before You Go",
+    url: "https://docs.google.com/uc?export=download&id=1YvzlH325K7CArAJMrgncxd0GnbUw2I0Z",
+    picture: "https://i.ytimg.com/vi/qDuIO8xEQhU/maxresdefault.jpg"
+}, {
+    artist: "BigRicePiano",
     name: "A Bitter Rain",
     url: "https://docs.google.com/uc?export=download&id=1d-K4Cxjrv-kp9VV0071YYWhkmQm70rwj",
     picture: "https://f4.bcbits.com/img/a3238949994_16.jpg"

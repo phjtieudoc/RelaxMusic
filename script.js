@@ -41,6 +41,11 @@ $(function()
     url: "https://docs.google.com/uc?export=download&id=1d-K4Cxjrv-kp9VV0071YYWhkmQm70rwj",
     picture: "https://f4.bcbits.com/img/a3238949994_16.jpg"
 }, {
+    artist: "BigRicePiano",
+    name: "Coffee & You",
+    url: "https://docs.google.com/uc?export=download&id=1wVjL4PZuEItw5uLXG053kJGtKNm2v1Sh",
+    picture: "https://i.ytimg.com/vi/ljZZFHsj13o/maxresdefault.jpg"
+}, {
     artist: "千と千尋の神隠し",
     name: "いのちの名前",
     url: "https://docs.google.com/uc?export=download&id=11yzLRP0J_HJ4_zz3eCbWgI8tacVDicfK",

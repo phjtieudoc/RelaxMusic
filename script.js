@@ -42,6 +42,11 @@ $(function()
     picture: "https://i.ytimg.com/vi/qDuIO8xEQhU/maxresdefault.jpg"
 }, {
     artist: "BigRicePiano",
+    name: "April Rain",
+    url: "https://docs.google.com/uc?export=download&id=1QPwEDMokpSErPndJo2ZMXbKdpSbZ6U-t",
+    picture: "https://i.ytimg.com/vi/W_0zr0uwZQk/maxresdefault.jpg"
+}, {
+    artist: "BigRicePiano",
     name: "Summer Farewell",
     url: "https://docs.google.com/uc?export=download&id=1DhuD0uYrpSFWGekKPWr1TqaAf-x1UtIQ",
     picture: "https://f4.bcbits.com/img/a3779116000_16.jpg"
